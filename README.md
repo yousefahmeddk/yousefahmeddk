@@ -1,46 +1,39 @@
 ## Yousef Wageh
-**Full-Stack Web Developer**
+**Web Developer**
 
-I build modern, scalable web applications with a strong focus on clean UI and solid backend architecture.  
-Comfortable working end-to-end: from frontend interfaces to backend logic and deployment.
+Web developer focused on building web applications and backend systems using Node.js and PostgreSQL.
 
----
-
-### What I Do
-- Develop responsive web applications using modern JavaScript frameworks  
-- Build RESTful APIs and backend systems with Node.js  
-- Turn ideas into clean, maintainable, production-ready code  
+I have around one year of hands-on learning and practice, working on personal projects and small real-world applications that helped me understand real development workflows.
 
 ---
 
-### Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript  
-- React, Bootstrap  
-
-**Backend**
-- Node.js, Express.js  
-
-**Tools & Platforms**
-- Git, GitHub  
-- Firebase  
-- Vercel, Netlify  
+### Skills
+- JavaScript (ES6+)
+- Node.js, Express
+- PostgreSQL / SQL
+- HTML, CSS
+- Git & GitHub
 
 ---
 
 ### Currently
-- Improving backend architecture & system design  
-- Learning cloud deployment and scalability best practices  
+- Improving backend development and API design
+- Working with databases and writing efficient SQL queries
+- Building practical projects to strengthen real-world experience
 
 ---
 
-### Connect
-- 💼 LinkedIn: https://linkedin.com/in/yousefahmeddk  
-- 🎨 Behance: https://behance.net/yousefahmeddk  
-- 📧 Email: wagehwork001@icloud.com  
+### Looking For
+- Web developer roles
+- Internships
+- Freelance or small real-world projects
 
 ---
 
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yousefahmeddk&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefahmeddk&layout=compact&theme=dark&hide_border=true)
+### Contact
+- LinkedIn: https://linkedin.com/in/yousefahmeddk  
+- Email: wagehwork001@icloud.com  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousefahmeddk&theme=dark&hide_border=true)
