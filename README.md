@@ -34,6 +34,4 @@ I have around one year of hands-on learning and practice, working on personal pr
 - LinkedIn: https://linkedin.com/in/yousefahmeddk  
 - Email: wagehwork001@icloud.com  
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousefahmeddk&theme=dark&hide_border=true)
